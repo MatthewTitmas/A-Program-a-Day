@@ -1,2 +1,3 @@
-# A-Program-a-Day
-The programs created for my "A Program a Day" blog.
+# Day 1
+The source code for the background of my blog.
+Created in python
