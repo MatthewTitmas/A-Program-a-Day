@@ -1,2 +1,2 @@
-# A-Program-a-Day
-The programs created for my "A Program a Day" blog.
+# Day 9
+The source code of my starry night, created in processing.
