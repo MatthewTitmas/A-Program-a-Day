@@ -1,2 +1,2 @@
-# A-Program-a-Day
-The programs created for my "A Program a Day" blog.
+# Day 2
+The source code for my version of the World's Hardest game with an editable floor.
