@@ -1,2 +1,2 @@
-# A-Program-a-Day
-The programs created for my "A Program a Day" blog.
+# Day 16
+The source code for my version of code that approximated pi
