@@ -1,2 +1,2 @@
-# A-Program-a-Day
-The programs created for my "A Program a Day" blog.
+# Day 20
+The source code for my implementation of Kruskal's maze generation created in processing.
