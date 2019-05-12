@@ -1,2 +1,2 @@
-# A-Program-a-Day
-The programs created for my "A Program a Day" blog.
+# Day 21
+The source code for my circle packing algorith. Created in processing.
