@@ -1,2 +1,2 @@
 # A-Program-a-Day
-The programs created for my "A Program a Day" blog.
+The source code for my algorithm that produces a pendulum, created in processing.
