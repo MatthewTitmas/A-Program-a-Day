@@ -1,2 +1,2 @@
-# A-Program-a-Day
-The programs created for my "A Program a Day" blog.
+# Day 28  
+The source code for my visulisation of the mandelbrot set, created in processing.
