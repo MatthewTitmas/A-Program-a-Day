@@ -1,2 +1,2 @@
 # A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+The source code for my prime finder, using a method known as the "sieve of primes", created in processing.
