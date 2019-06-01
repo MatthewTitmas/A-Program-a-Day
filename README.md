@@ -1,2 +1,2 @@
-# A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+# Day 41
+An extension to the code created on day 40, this is the source code to a program that evolves a neural network to learn how to complete a race track.
