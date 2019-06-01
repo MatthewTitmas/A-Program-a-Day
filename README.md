@@ -1,2 +1,2 @@
-# A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+# Day 37
+The source code for my static class that can be used to perform all the matrix maths needed for a neural network, created in processing.
