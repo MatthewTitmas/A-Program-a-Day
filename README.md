@@ -1,2 +1,2 @@
-# A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+# Day 48
+The source code for my ball collision in a 2D plane program using maths from this page http://www.vobarian.com/collisions/2dcollisions2.pdf. Created in processing.
