@@ -1,2 +1,2 @@
-# A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+# Day 52
+Thesource code for my 2-Player Tic-Tac-Toe game. Created in processing.
