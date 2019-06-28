@@ -1,2 +1,2 @@
 # A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+The source code for a program that can show the answer to a question posed by 3Blue1Brown in this video: https://www.youtube.com/watch?v=OkmNXy7er84. Created in processing.
