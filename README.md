@@ -1,2 +1,2 @@
-# A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+# Day 59
+The source code for my "Flood it" game program, created in processing.
