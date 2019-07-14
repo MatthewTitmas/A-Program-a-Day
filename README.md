@@ -1,2 +1,2 @@
-# A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+# Day 76
+The source code for my program that reveals different parts of an image as the window is moved across the screen, created in processing.
