@@ -1,2 +1,2 @@
-# A program a day
-The programs created for my "A Program a Day" challenge. Follow along at https://www.tumblr.com/blog/mtitmas
+# Day 87
+The source code for image drawing algorithm, created in processing.
